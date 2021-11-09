@@ -1,0 +1,30 @@
+body {
+  min-height: 3500px;
+  scroll-behavior: smooth;
+  background-color: pink;
+}
+.navbar {
+  background-color: pink;
+  overflow: hidden;
+}
+
+#album {
+  text-align: center;
+  overflow: hidden;
+}
+
+#discography {
+  overflow: hidden;
+}
+
+footer {
+  background-color: pink;
+  font-style: italic;
+  padding-top: 5rem;
+  padding-bottom: 2rem;
+  overflow: hidden;
+}
+
+section {
+  padding-top: 5rem;
+}
